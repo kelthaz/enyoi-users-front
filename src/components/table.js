@@ -6,7 +6,7 @@ import {
   TableCell, TableBody, Table, IconButton
 } 
 from '@mui/material'
-
+ 
 const TableDense = () => {
 const [data, setData] = useState([])
 const [name, setName] = useState('')
